@@ -1,0 +1,18 @@
+{
+  "name": "new-create-react-app-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scott Beeker",
+  "authoremail": "scottbeeker@create-react-app.org",
+  "authorurl": "scottbeeker.com",
+  "authorsocial": "https://bsk.app/profile/mescottbeeker",
+  "license": "MIT",
+  "description": "CLi selection tool for create-react-app. Creating production grade apps fast.",
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
+}
